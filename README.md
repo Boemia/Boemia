@@ -54,10 +54,10 @@
 
 # 📊 GitHub Stats:
 
-![LinThitHtwe's Stats](https://github-readme-stats.vercel.app/api?username=Boemia&show_icons=true&theme=tokyonight&rank_icon=percentile&include_all_commits=true&count_private=true&hide_border=true)
-![LinThitHtwe's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Boemia&langs_count=8&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-![LinThitHtwe's Progile Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Boemia&theme=tokyonight)
-![LinThitHtwe's Activity Graph](https://github-readme-activity-graph.vercel.app/graph/?username=Boemia&radius=6&theme=tokyo-night&hide_border=true) 
+![Estat Boemia](https://github-readme-stats.vercel.app/api?username=Boemia&show_icons=true&theme=tokyonight&rank_icon=percentile&include_all_commits=true&count_private=true&hide_border=true)
+![Top Linguagens Boemia](https://github-readme-stats.vercel.app/api/top-langs/?username=Boemia&langs_count=8&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![Progile Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Boemia&theme=tokyonight)
+![Gráfico de atividade](https://github-readme-activity-graph.vercel.app/graph/?username=Boemia&radius=6&theme=tokyo-night&hide_border=true) 
 
 
 
@@ -79,6 +79,6 @@
 
 ## 🎧 Codando e ouvindo 
 
- [![Spotify](https://spotify-github-profile.vercel.app/api/view.svg?uid=31ny5lr2mszspimd7eustqcnombe&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://github.com/linthit27)
+ [![Spotify](https://open.spotify.com/intl-pt/artist/7sKOw5KIGmCldJ8wkQhGQo?si=0aers8F7SDiQsBNE2g1hyg)]
 
  </details>
